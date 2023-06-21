@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public interface CarroInterface {
-}
+public interface CarroInterface {
+
+        void encender();
+        void apagar();
+    }
+
+
